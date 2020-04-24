@@ -23,3 +23,4 @@
       *   * |- `__init__.py`
 
   * For demo I've created a Reader Package that reads the bz2 and zip files automatically.
+  * [Snapshot](https://github.com/shriawesome/Python-Concepts/blob/master/Packages/imgs/Reader_op1.png)
