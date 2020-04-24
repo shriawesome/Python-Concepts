@@ -19,7 +19,7 @@
 
   * Process for Creating a Package :
     * |- Path_entry/    (Must be a sys.path)
-    <br>  |- my_Package/  (Directory containing your package)
-    <br>    |- __init__.py
+      * |- my_Package/  (Directory containing your package)
+      *   * |- `__init__.py`
 
   * For demo I've created a Reader Package that reads the bz2 and zip files automatically.
