@@ -11,7 +11,8 @@
     * `from abc import ABCMeta,abstractmethod`
 _ _ _
 
-2. Beyond Basic Functions: <br>
+2. Beyond Basic Functions:
+  * Understanding 
   *  ` __call__()`:
     * This is used so as to make an instance of the class created behave as an function directly.
     * For e.g. refer to AboutFunctions/resolver.py <br>
