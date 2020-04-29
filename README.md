@@ -9,13 +9,14 @@
   * It comes with a module named abc(Abstract Base Class) for the purpose.
   * Important modules :-
     * `from abc import ABCMeta,abstractmethod`
-- - -
 
 2. Beyond Basic Functions:
-  i. ` __call__()`:
+
+  1. ` __call__()`:
     * This is used so as to make an instance of the class created behave as an function directly.
     * For e.g. refer to AboutFunctions/resolver.py
-  ii. lambdas :
+    
+  2. lambdas :
     * Is an expression that evaluates to the Function.
     * Unlike function defined using def() keyword it need not be defined and can be anonymous i.e. it has no name.
     * Argument list terminated by colon, separated by commas i.e. e.g.  `lambda a,b,c : a+b+c`
