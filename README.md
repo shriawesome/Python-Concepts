@@ -12,7 +12,7 @@
 - - -
 
 2. Beyond Basic Functions :
-  a. __call__():
+  a.` __call__()`:
     * This is used so as to make an instance of the class created behave as an function directly.
     * For e.g. refer to AboutFunctions/resolver.py
   b. lambdas :
