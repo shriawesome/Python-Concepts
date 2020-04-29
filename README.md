@@ -12,7 +12,7 @@
 _ _ _
 
 2. Beyond Basic Functions:
-  *  ` __call__()` :
+  *   `__call__()` function :
     * This is used so as to make an instance of the class created behave as an function directly.
     * For e.g. refer to AboutFunctions/resolver.py <br>
 
