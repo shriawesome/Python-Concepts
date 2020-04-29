@@ -10,3 +10,20 @@
   * Important modules :-
     * `from abc import ABCMeta,abstractmethod`
 - - -
+
+2. Beyond Basic Functions :
+  1. __call__():
+    * This is used so as to make an instance of the class created behave as an function directly.
+    * For e.g. refer to AboutFunctions/resolver.py
+  2. lambdas :
+    * Is an expression that evaluates to the Function.
+    * Unlike function defined using def() keyword it need not be defined and can be anonymous i.e. it has no name.
+    * Argument list terminated by colon, separated by commas i.e. e.g.  `lambda a,b,c : a+b+c`
+    * It can also support zero or more arguments. For zero argument `lambda : `
+    * Body contains only a single statement. More than one statement is not permitted.
+    * The single statement itself is a return statement and can't contain a keyword `return`.
+    * e.g. `sorted(,key=)` in python contains a key argument accepts lambda function as a value.
+    * Hence, given a list of names to sort for one can sort the names based on last name using this.
+    * [lambda implementation](https://github.com/shriawesome/Python-Concepts/blob/master/imgs/lambda.png)
+
+- - -
