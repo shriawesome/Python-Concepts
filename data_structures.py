@@ -79,3 +79,18 @@ print(set1)
 # Different operations : Union, intersection, difference, symmetric_difference() : both 'sets' differences is given
 set2={3,4,5,6,7}
 print(set1.union(set2))  # same for intersection
+
+
+# II. User-defined data types
+# 1. Array (contains data of specific data types)
+# 2. Stacks:
+    # a. Follows LIFO principle  
+# 3. Queues :
+    # same as stacks but follows FIFO principle and has a Head and the Tail
+# 4. Trees :
+    # useful for defining hierarchy
+    # consist of the Node that contains the data and the left and the right child
+# 5. Linked List :
+    # single node consists of the data and pointer to the next value.
+    
+
